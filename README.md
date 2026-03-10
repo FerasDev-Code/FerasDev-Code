@@ -9,3 +9,6 @@ Fun Facts:
   I spend my time "OS hopping" to find the perfect development environment.
 
   My favorite animal is the fox.
+
+  [![YouTube](https://img.shields.io/badge/YouTube-%40FerasDev-red?style=for-the-badge&logo=youtube)](https://youtube.com/@FerasDev)
+[![Discord](https://img.shields.io/badge/Discord-feras__dev-7289da?style=for-the-badge&logo=discord)](https://discord.com)
