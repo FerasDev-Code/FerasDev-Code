@@ -1,18 +1,20 @@
-# Hey there i am Feras👨‍💻👋:
-🔭 I’m currently working on: SwiftFox Optimizer & 3D Game Mechanics<br><br>🤝 I’m looking for help with: Advanced C++ & Java performance<br><br>🌱 I’m currently learning: Ethical Hacking & Low-level Engineering<br><br>💬 Ask me about: Python automation or Windows optimization<br><br>⚡ Fun fact: I write code that makes slow PCs feel like supercomputers.
+# 👋 I'm Feras (@FerasDev-Code)
 
+**🛡️ Cybersecurity Student | 🎮 Game Dev (C++/C) | 🐍 Pythonist**
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@FerasDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:feras.messaf@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FerasDev-Code&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FerasDev-Code&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FerasDev-Code&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+I build high-performance tools and secure systems. Currently optimizing Windows with [SwiftFox](https://github.com/FerasDev-Code/SwiftFox-Optimizer).
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FerasDev-Code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack
+`C++` • `C` • `Python` • `Java` • `GDScript` • `Linux (Kali/Ubuntu)` • `Godot` • `GitHub Actions`
+
+---
+
+### 🔭 What I'm doing
+- 🚀 **Currently working on:** SwiftFox Optimizer & 3D Game Mechanics.
+- 🌱 **Learning:** Ethical Hacking & Low-level Engineering.
+- ⚡ **Fun fact:** I write code that makes slow PCs feel like supercomputers.
+
+---
+**⭐ Star my projects!** | 📺 [YouTube](https://youtube.com/@FerasDev) | 💬 **Discord:** `feras_dev`
