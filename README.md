@@ -1,4 +1,4 @@
-# Hey there i am Feras:
+# Hey there i am Feras👨‍💻👋:
 🔭 I’m currently working on: SwiftFox Optimizer & 3D Game Mechanics<br><br>👯 I’m looking to collaborate on: Open Source Security Tools<br><br>🤝 I’m looking for help with: Advanced C++ & Java performance<br><br>🌱 I’m currently learning: Ethical Hacking & Low-level Engineering<br><br>💬 Ask me about: Python automation or Windows optimization<br><br>⚡ Fun fact: I write code that makes slow PCs feel like supercomputers.
 
 
