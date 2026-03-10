@@ -1,4 +1,4 @@
-Hey there!
+Hey there!👨🏻‍💻
 
 I’m Feras, a developer and ethical hacker based in Morocco. I specialize in cybersecurity, system optimization, and building efficient software solutions. If an idea pops into my head, chances are I’ll script it and ship it. My main tech stack is Python, Java, and C++, frequently working within Kali Linux and Linux Mint environments to test network security and automate workflows. I’ve built a variety of public repositories focused on performance and security, including tools for network analysis and Windows system optimization. When I'm not coding, I'm documenting my tech journey and internet mysteries for my community.
 
