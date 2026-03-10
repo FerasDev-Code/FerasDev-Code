@@ -1,20 +1,11 @@
-# 👋 I'm Feras (@FerasDev-Code)
+Hey there!
 
-**🛡️ Cybersecurity Student | 🎮 Game Dev (C++/C) | 🐍 Pythonist**
+I’m Feras, a developer and ethical hacker based in Morocco. I specialize in cybersecurity, system optimization, and building efficient software solutions. If an idea pops into my head, chances are I’ll script it and ship it. My main tech stack is Python, Java, and C++, frequently working within Kali Linux and Linux Mint environments to test network security and automate workflows. I’ve built a variety of public repositories focused on performance and security, including tools for network analysis and Windows system optimization. When I'm not coding, I'm documenting my tech journey and internet mysteries for my community.
 
-I build high-performance tools and secure systems. Currently optimizing Windows with [SwiftFox](https://github.com/FerasDev-Code/SwiftFox-Optimizer).
+Fun Facts:
 
----
+  I program software that turns slow PCs into supercomputers.
 
-### 🛠️ Tech Stack
-`C++` • `C` • `Python` • `Java` • `GDScript` • `Linux` • `Godot` • `GitHub Actions`
+  I spend my time "OS hopping" to find the perfect development environment.
 
----
-
-### 🔭 Current Focus
-- 🚀 **Projects:** SwiftFox Optimizer & 3D Game Mechanics.
-- 🌱 **Learning:** Ethical Hacking & Low-level Engineering.
-- ⚡ **Fun Fact:** I write code that makes slow PCs feel like supercomputers.
-
----
-**⭐ Star my projects!** | 📺 [YouTube](https://youtube.com/@FerasDev) | 💬 **Discord:** `feras_dev`
+  My favorite animal is the fox.
